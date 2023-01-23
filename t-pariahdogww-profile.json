@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-23T14:38:54Z",
+  "IdClaims": [
+    {
+      "Claim": "t:pariahdogww"
+    },
+    {
+      "Claim": "gh:jonathanwine147"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "bc4126a5e3a8e85ae7f32224",
+    "Timestamp": "2023-01-23T14:40:57Z",
+    "Signature": "096c6b468510d1c2dea6be5fa3660f073cd58d2d73fe6ec3df63069ffe653a128a8e6138181c0073a1e4883569bc2a9e2f19b8d60d864334581289fda976c16cad42b5191c5acd76cf6dc460b1c34e05ef03d91b657ef465c93d056174ceaf5677508df994fee2125d1733d8f15b20397189d876dea2d877c945b7dafe025cb67d2880b37057c3e26379482a52c59a3c17ab00c063b938a8538cf20562bdd11300283cf84e7577f3f0f6bd2219a313e158a895a674359df99a6a2688588ab183a37a71060a2049d630796227b8af91aea1c5ad328fceb37a84c257ca2fa47f16c990bedd544934eb7ce049167e2b71014b2e012eeebce97c8183f81705493d28"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d8090fc681e395386cc8014d3e73bd6485199abc829af5f95932805387672069",
+  "ContentToHash": "v1|gh:jonathanwine147,t:pariahdogww|2023-01-23T14:38:54Z"
+}
